@@ -18,19 +18,24 @@ Logs campaign, keyword, and search term data for performance tracking (e.g., CTR
 ### 運行指導 | Usage
 1. **資料庫與通知設定 Database and Notification Setup:**  
    在 all_config.yml 中填入資料庫連線資訊、通知設定以及接收信箱。  
+   Fill in database connection details, notification settings, and recipient email addresses in all_config.yml.  
    ![Step 1](images/all_config.png)
-2. **Apple search ads token 認證 Token Authentication:**
-   開啟 ASA_client_secret 資料夾中的 Python 腳本，填入相關金鑰，執行後即可獲得最新的 client secret。  
+3. **Apple search ads token 認證 Token Authentication:**
+   開啟 ASA_client_secret 資料夾中的 Python 腳本，填入相關金鑰執行後即可獲得最新的 client secret。  
+   Open the Python script in the ASA_client_secret folder, input the required keys, and run it to obtain the latest client secret.  
    ![Step 2](images/client_secret.png)
-3. **Apple search ads 設定 Configuration:**  
-   在 ASA_config.yml 中填入 client id 和 client secret。   
+5. **Apple search ads 設定 Configuration:**  
+   在 ASA_config.yml 中填入 client id 和 client secret。  
+   Add your client id and client secret to ASA_config.yml.  
    ![Step 3](images/ASA_config.png)
-4. **執行主程式 Run the Main Script**
-   - 選擇匯出至 Excel (/scripts/export_to_xlsx) 或寫入 SQL 資料庫 (/scripts/write_to_db)。
-   - 主程式包含兩部分：  
-       apple_search_ads.R 處理 campaign 與 keyword 資料  
-       apple_search_ads_searchterm.R 處理 search term 資料  
-   - 在命令行中執行主程式，可選擇預設執行近 2 天的資料，或依需求提供開始與結束日期參數。
+7. **執行主程式 Run the Main Script**
+   - 選擇匯出至 Excel (/scripts/export_to_xlsx) 或寫入 SQL 資料庫 (/scripts/write_to_db)。  
+     Choose to export data to Excel (/scripts/export_to_xlsx) or write it into an SQL database (/scripts/write_to_db).  
+   - 主程式包含兩部分 The main scripts include：  
+       apple_search_ads.R 處理 campaign 與 keyword 資料  apple_search_ads.R for campaign and keyword data  
+       apple_search_ads_searchterm.R 處理 search term 資料  apple_search_ads_searchterm.R for search term data  
+   - 在命令行中執行主程式，可選擇預設執行近 2 天的資料，或依需求提供開始與結束日期參數。  
+     Run the scripts via the command line. You can either use the default setting to process data for the last 2 days or provide custom start and end dates as arguments.
 
 ---
 
