@@ -1,0 +1,44 @@
+INFO [2025-01-03 18:33:44] 20250103183344 Work start apple_search_ads_campaign
+INFO [2025-01-03 18:33:46] 20250103183344 Apple search ads orgId: 1111 update start !!
+INFO [2025-01-03 18:33:52] 20250103183344 Apple search ads orgId: 1111, 沒有campaign資料 !!
+INFO [2025-01-03 18:34:13] 20250103183344 Apple search ads orgId: 2222 update start !!
+INFO [2025-01-03 18:34:19] 20250103183344 Apple search ads orgId: 2222, campaign_id: 111, update start !!
+INFO [2025-01-03 18:34:21] 20250103183344匯出ASA campaign資料，共3筆。
+INFO [2025-01-03 18:34:21] 20250103183344匯出ASA keyword詳細資料，共6筆。
+INFO [2025-01-03 18:34:21] 20250103183344 Apple search ads orgId: 2222, campaign_id: 111, update completed !!
+INFO [2025-01-03 18:34:21] 20250103183344 Apple search ads orgId: 2222, campaign_id: 222, update start !!
+INFO [2025-01-03 18:34:25] 20250103183344匯出ASA campaign資料，共236筆。
+INFO [2025-01-03 18:34:25] 20250103183344匯出ASA keyword詳細資料，共312筆。
+INFO [2025-01-03 18:34:26] 20250103183344 Apple search ads orgId: 2222, campaign_id: 222, update completed !!
+INFO [2025-01-03 18:34:26] 20250103183344 Apple search ads orgId: 2222, campaign_id: 333, update start !!
+INFO [2025-01-03 18:34:26] 20250103183344匯出ASA 瀏覽campaign資料，共1筆。
+INFO [2025-01-03 18:34:26] 20250103183344匯出ASA 瀏覽campaign詳細資料，共2筆。
+INFO [2025-01-03 18:34:26] 20250103183344 Apple search ads orgId: 3333 update start !!
+INFO [2025-01-03 18:34:32] 20250103183344 Apple search ads orgId: 3333, campaign_id: 444, update start !!
+INFO [2025-01-03 18:34:33] 20250103183344匯出ASA campaign資料，共1筆。
+INFO [2025-01-03 18:34:33] 20250103183344匯出ASA keyword詳細資料，共2筆。
+INFO [2025-01-03 18:34:34] 20250103183344 Apple search ads orgId: 3333, campaign_id: 444, update completed !!
+INFO [2025-01-03 18:34:34] 20250103183344 Apple search ads orgId: 3333, campaign_id: 555, update start !!
+INFO [2025-01-03 18:34:36] 20250103183344匯出ASA campaign資料，共26筆。
+INFO [2025-01-03 18:34:36] 20250103183344匯出ASA keyword詳細資料，共42筆。
+INFO [2025-01-03 18:34:36] 20250103183344 Apple search ads orgId: 3333, campaign_id: 555, update completed !!
+INFO [2025-01-03 18:34:36] 20250103183344 Apple search ads orgId: 3333, campaign_id: 666, update start !!
+INFO [2025-01-03 18:34:38] 20250103183344匯出ASA campaign資料，共31筆。
+INFO [2025-01-03 18:34:38] 20250103183344匯出ASA keyword詳細資料，共42筆。
+INFO [2025-01-03 18:34:38] 20250103183344 Apple search ads orgId: 3333, campaign_id: 666, update completed !!
+INFO [2025-01-03 18:34:38] 20250103183344 Apple search ads orgId: 3333, campaign_id: 777, update start !!
+INFO [2025-01-03 18:34:40] 20250103183344匯出ASA campaign資料，共6筆。
+INFO [2025-01-03 18:34:40] 20250103183344匯出ASA keyword詳細資料，共9筆。
+INFO [2025-01-03 18:34:41] 20250103183344 Apple search ads orgId: 3333, campaign_id: 777, update completed !!
+INFO [2025-01-03 18:34:41] 20250103183344 Apple search ads orgId: 3333, campaign_id: 888, update start !!
+INFO [2025-01-03 18:34:42] 20250103183344匯出ASA campaign資料，共2筆。
+INFO [2025-01-03 18:34:42] 20250103183344匯出ASA keyword詳細資料，共3筆。
+INFO [2025-01-03 18:34:43] 20250103183344 Apple search ads orgId: 3333, campaign_id: 888, update completed !!
+INFO [2025-01-03 18:34:43] 20250103183344 Apple search ads orgId: 3333, campaign_id: 999, update start !!
+INFO [2025-01-03 18:34:45] 20250103183344匯出ASA campaign資料，共39筆。
+INFO [2025-01-03 18:34:45] 20250103183344匯出ASA keyword詳細資料，共65筆。
+INFO [2025-01-03 18:34:45] 20250103183344 Apple search ads orgId: 3333, campaign_id: 999, update completed !!
+INFO [2025-01-03 18:34:45] 20250103183344 Apple search ads orgId: 4444 update start !!
+INFO [2025-01-03 18:34:51] 20250103183344 Apple search ads orgId: 4444, 沒有campaign資料 !!
+INFO [2025-01-03 18:35:24] 20250103183344 apple_search_ads_campaign Work End
+INFO [2025-01-03 18:35:24] =================================================================

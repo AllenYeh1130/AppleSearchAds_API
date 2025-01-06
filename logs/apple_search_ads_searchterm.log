@@ -1,0 +1,32 @@
+INFO [2025-01-03 18:12:51] 20250103181251 Work start apple_search_ads_searchterm
+INFO [2025-01-03 18:13:47] 20250103181251 Apple search ads searchterm update start !! start_date: 2025-01-03, end_date: 2025-01-03, orgId: 1111
+INFO [2025-01-03 18:13:49] 20250103181251 Apple search ads searchterm orgId: 1111, 沒有campaign資料 !!
+INFO [2025-01-03 18:13:51] 20250103181251 Apple search ads searchterm update start !! start_date: 2025-01-03, end_date: 2025-01-03, orgId: 2222
+INFO [2025-01-03 18:13:54] 20250103181251 Apple search ads searchterm orgId: 2222, campaign_id: 111, update start !!
+INFO [2025-01-03 18:13:55] 20250103181251匯入ASA searchterm詳細資料，共4筆。
+INFO [2025-01-03 18:13:55] 20250103181251 Apple search ads searchterm orgId: 2222, campaign_id: 111, update completed !!
+INFO [2025-01-03 18:13:55] 20250103181251 Apple search ads searchterm orgId: 2222, campaign_id: 222, update start !!
+INFO [2025-01-03 18:13:57] 20250103181251匯入ASA searchterm詳細資料，共163筆。
+INFO [2025-01-03 18:13:58] 20250103181251 Apple search ads searchterm orgId: 2222, campaign_id: 222, update completed !!
+INFO [2025-01-03 18:13:58] 20250103181251 Apple search ads searchterm orgId: 2222, campaign_id: 333, update start !!
+INFO [2025-01-03 18:13:58] 20250103181251 Apple search ads searchterm update start !! start_date: 2025-01-03, end_date: 2025-01-03, orgId: 3333
+INFO [2025-01-03 18:14:00] 20250103181251 Apple search ads searchterm orgId: 3333, campaign_id: 111, update start !!
+INFO [2025-01-03 18:14:02] 20250103181251匯入ASA searchterm詳細資料，共1筆。
+INFO [2025-01-03 18:14:02] 20250103181251 Apple search ads searchterm orgId: 3333, campaign_id: 111, update completed !!
+INFO [2025-01-03 18:14:02] 20250103181251 Apple search ads searchterm orgId: 3333, campaign_id: 222, update start !!
+INFO [2025-01-03 18:14:03] 20250103181251匯入ASA searchterm詳細資料，共21筆。
+INFO [2025-01-03 18:14:03] 20250103181251 Apple search ads searchterm orgId: 3333, campaign_id: 222, update completed !!
+INFO [2025-01-03 18:14:03] 20250103181251 Apple search ads searchterm orgId: 3333, campaign_id: 333, update start !!
+INFO [2025-01-03 18:14:05] 20250103181251匯入ASA searchterm詳細資料，共13筆。
+INFO [2025-01-03 18:14:05] 20250103181251 Apple search ads searchterm orgId: 3333, campaign_id: 333, update completed !!
+INFO [2025-01-03 18:14:05] 20250103181251 Apple search ads searchterm orgId: 3333, campaign_id: 444, update start !!
+INFO [2025-01-03 18:14:06] 20250103181251匯入ASA searchterm詳細資料，共5筆。
+INFO [2025-01-03 18:14:06] 20250103181251 Apple search ads searchterm orgId: 3333, campaign_id: 444, update completed !!
+INFO [2025-01-03 18:14:06] 20250103181251 Apple search ads searchterm orgId: 3333, campaign_id: 555, update start !!
+INFO [2025-01-03 18:14:08] 20250103181251匯入ASA searchterm詳細資料，共1筆。
+INFO [2025-01-03 18:14:08] 20250103181251 Apple search ads searchterm orgId: 3333, campaign_id: 555, update completed !!
+INFO [2025-01-03 18:14:08] 20250103181251 Apple search ads searchterm orgId: 3333, campaign_id: 666, update start !!
+INFO [2025-01-03 18:14:09] 20250103181251匯入ASA searchterm詳細資料，共37筆。
+INFO [2025-01-03 18:14:09] 20250103181251 Apple search ads searchterm orgId: 3333, campaign_id: 666, update completed !!
+INFO [2025-01-03 18:14:26] 20250103181251 apple_search_ads_searchterm Work End
+INFO [2025-01-03 18:14:26] =================================================================
