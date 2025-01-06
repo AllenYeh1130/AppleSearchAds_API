@@ -1,0 +1,9 @@
+﻿# apple search ads key
+# client_secret 獲取時都會產生新的金鑰，如果有更換記得更新
+apple_search_ads:
+ pem_file: pem_file.pem
+ key_file: key_file.key
+ api_version: v4
+ client_id: client_id
+ client_secret: client_secret
+

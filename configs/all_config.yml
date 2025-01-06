@@ -1,0 +1,13 @@
+﻿# MySQL 登入資訊
+db:
+ host : host
+ name : name
+ port : port
+ user : user
+ pass : password
+
+# 寄信通知
+mail: 
+ from : from@gmail.com
+ to : [user1@gmail.com, user2@gmail.com]
+
